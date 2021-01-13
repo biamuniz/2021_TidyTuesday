@@ -11,5 +11,6 @@ __Semana 1__
 
 __Semana 2__
 
-[Script e dataframe](https://github.com/biamuniz/2021_TidyTuesday/tree/main/Semana%202) 
+[Script e dataframe](https://github.com/biamuniz/2021_TidyTuesday/tree/main/Semana%202)
+
 ![alt text](https://raw.githubusercontent.com/biamuniz/2021_TidyTuesday/c3601137e25c858b5c11cef32391910f7840b08f/Semana%202/TidyTuesday_mcR.png)
