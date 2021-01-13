@@ -9,7 +9,7 @@ __Semana 1__
 ![alt text](https://raw.githubusercontent.com/biamuniz/2021_TidyTuesday/main/Semana%201/Rplot01.png)
 
 
-__Semana 2__
+__Semana 2: Nuvem de palavras dos quatro álbuns de estúdio da banda My Chemical Romance__
 
 [Script e dataframe](https://github.com/biamuniz/2021_TidyTuesday/tree/main/Semana%202)
 
