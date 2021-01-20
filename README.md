@@ -14,3 +14,10 @@ __Semana 2: Nuvem de palavras dos quatro álbuns de estúdio da banda My Chemica
 [Script e dataframe](https://github.com/biamuniz/2021_TidyTuesday/tree/main/Semana%202)
 
 ![alt text](https://raw.githubusercontent.com/biamuniz/2021_TidyTuesday/c3601137e25c858b5c11cef32391910f7840b08f/Semana%202/TidyTuesday_mcR.png)
+
+__Semana 3: Audiência do programa de estreia de cada edição do Big Brother Brasil__
+
+[Script e dataframe](https://github.com/biamuniz/2021_TidyTuesday/tree/main/Semana%203)
+
+![alt text](https://github.com/biamuniz/2021_TidyTuesday/blob/main/Semana%203/BBB_Ibope.png)
+
