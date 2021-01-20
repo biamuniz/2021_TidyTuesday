@@ -19,5 +19,5 @@ __Semana 3: Audiência do programa de estreia de cada edição do Big Brother Br
 
 [Script e dataframe](https://github.com/biamuniz/2021_TidyTuesday/tree/main/Semana%203)
 
-![alt text](https://github.com/biamuniz/2021_TidyTuesday/blob/main/Semana%203/BBB_Ibope.png)
+![alt text](https://raw.githubusercontent.com/biamuniz/2021_TidyTuesday/main/Semana%203/BBB_ibope.png)
 
