@@ -31,4 +31,10 @@ __Semana 5: Gráfico de radar + análise de sentimentos dos álbuns do Paramore,
 
 [Script e dataframe](https://github.com/biamuniz/2021_TidyTuesday/tree/main/Semana%205)
 
-![alt text](https://github.com/biamuniz/2021_TidyTuesday/blob/main/Semana%205/RadarChart.html)
+![alt text](https://raw.githubusercontent.com/biamuniz/2021_TidyTuesday/main/Semana%205/radarparamore.png)
+
+__Semana 6: Número de casos acumulados desde o início da pandemia no município de Cajamar__
+
+[Script e dataframe](https://github.com/biamuniz/2021_TidyTuesday/tree/main/Semana%206)
+
+![alt text](https://raw.githubusercontent.com/biamuniz/2021_TidyTuesday/main/Semana%206/anigif.gif)
