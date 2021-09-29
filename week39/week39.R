@@ -18,10 +18,4 @@ got_clean <- got %>%
   arrange(year) %>% 
   distinct(category, type, title, distributor, producer, year, .keep_all = TRUE)
 
-got_clean %>%
- filter(type %in% "Winner") %>%
- ggplot() +
- aes(x = year, fill = type) +
- geom_bar() +
- scale_fill_hue() +
- theme_minimal()
+
