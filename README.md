@@ -12,6 +12,3 @@ Repositório criado para as minhas visualizações de dados do TidyTuesday de 20
 * [Semana 6: Número de casos acumulados desde o início da pandemia no município de Cajamar](https://github.com/biamuniz/2021_TidyTuesday/tree/main/2021_livre/Semana%206)
 
 ### *...período sem visualizações*
-
-**Voltei! Agora seguindo a lista do R4DS**
-* Semana 39: Emmy Awards (*em breve*)
